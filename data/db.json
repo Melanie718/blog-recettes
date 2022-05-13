@@ -1,0 +1,32 @@
+{
+  "recipes": [
+    {
+      "title": "Pates au thon",
+      "ingredients": "pates, thon, creme, miel",
+      "description": " Faire revenir le thon avec de l'ail, ajoutez la crème fraiche, puis les pates",
+      "author": "Melanie",
+      "id": 1
+    },
+    {
+      "title": "Poulet curry",
+      "ingredients": "poulet, épices, accompagnement",
+      "description": "Tremper les morceaux de poulet dans un mélange de farine et d'épices (curry, paprika, piment doux) puis les faire revenir à la poele, servir avec un accompagnement (ex : haricots verts).",
+      "author": "Melanie",
+      "id": 2
+    },
+    {
+      "title": "Magret sauce au miel",
+      "ingredients": "magret de canard, miel, vinaigre balsamique",
+      "description": "Faire cuire le magret et mélanger le miel et le vinaigre dans le gras de cuisson du magret. Servir avec des pates ou des pomes de terre",
+      "author": "Valentin",
+      "id": 3
+    },
+    {
+      "title": "Pain de poisson",
+      "ingredients": "Thon, oeufs, oncentré de tomates, cognac",
+      "description": "Mélanger les ingrédients mettre au four je ne sais plus combien de temps",
+      "author": "Mélanie",
+      "id": 6
+    }
+  ]
+}
