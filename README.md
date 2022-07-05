@@ -1,4 +1,4 @@
-Blog to add and get your favorites recipes
+Blog to add and get your favorites recipes :
 -Front-end en React
 -Back-end avec JSON-server
 
